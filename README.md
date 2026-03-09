@@ -1,32 +1,58 @@
 # Leave Management System
 
-A full stack Leave Management System built with Vue.js, Node.js, Express and MongoDB.
+🚀 Live Demo: [https://leave-management-system.vercel.app](https://leave-management-syste.vercel.app)
+
+A full-stack Leave Management System built with **Vue.js, Node.js, Express, and MongoDB** that allows employees to request leave and employers to review, approve, or reject those requests through role-based dashboards.
+
+---
 
 ## Features
-- Employee login
-- Employer login
-- Apply leave
-- Approve / reject leave
+
+- Employee login and registration
+- Employer dashboard for managing leave requests
+- Apply for leave with dates and reason
+- Approve / reject leave requests
 - Role-based dashboards
+- MongoDB Atlas database integration
+- Deployed backend on Render and frontend on Vercel
+
+---
 
 ## Tech Stack
-Frontend: Vue.js + Vite  
-Backend: Node.js + Express  
-Database: MongoDB Atlas
 
-## Run Project
+**Frontend**
+- Vue.js
+- Vite
+- CSS
 
-Backend
+**Backend**
+- Node.js
+- Express.js
 
-cd backend
-npm install
-node server.js
+**Database**
+- MongoDB Atlas
 
-Frontend
+---
 
-cd frontend
-npm install
-npm run dev
+## Live Deployment
 
-Open:
-http://localhost:5173
+Frontend:  
+[https://leave-management-system.vercel.app](https://leave-management-syste.vercel.app)
+
+
+---
+
+## Demo Login
+
+Employee  
+Email: user@test.com  
+Password: anything
+
+Employer  
+Email: employer@test.com  
+Password: anything
+
+---
+
+## Project Structure
+
